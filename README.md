@@ -7,11 +7,11 @@ In my spare time, I enjoy woodworking, improving my home automation setup, 3D pr
 
 ### Latest entries on [my blog](https://haim.dev)
 <!-- blog starts -->
+* [Redundant first-hop router with Raspberry Pi](https://haim.dev/posts/2020-12-30-redundand-first-hop-router/) - 2020-12-30
 * [Linking Swift code into a Rust app](https://haim.dev/posts/2020-09-10-linking-swift-code-into-rust-app/) - 2020-09-10
 * [Signing and notarizing a Python MacOS UI application](https://haim.dev/posts/2020-08-08-python-macos-app/) - 2020-08-08
 * [Dual-monitor 4K@60hz KVM switch for $30](https://haim.dev/posts/2020-07-28-dual-monitor-kvm/) - 2020-07-28
 * [Fresh air with ESP8266 and Home Assistant (part 2)](https://haim.dev/posts/2020-04-26-hrv-with-esp8266-2/) - 2020-04-26
-* [Fresh air with ESP8266 and Home Assistant (part 1)](https://haim.dev/posts/2020-04-25-hrv-with-esp8266-1/) - 2020-04-25
 <!-- blog ends -->
 
 ### How to reach me
