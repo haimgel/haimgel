@@ -1,9 +1,9 @@
 ### Who is Haim Gelfenbeyn?
-I’m a software engineer currently from Ontario, Canada. I’ve worked with quite a range of different platforms and
-technologies, from Windows GUI to Web applications, with detours into DevOps, device drivers, and mobile development.
-Today, I'm building awesome software for [TheoremOne](https://theoremone.co) clients.
+Software engineer focused on distributed systems and cloud platforms. I'm passionate about system architecture,
+mentoring teams, and solving complex technical challenges. Currently at Apple, still learning something new
+every day.
 
-In my spare time, I enjoy woodworking, improving my home automation setup, 3D printing, spending time with my family.
+Outside of work, I enjoy woodworking, tinkering with home automation, 3D printing, and spending time with family.
 
 ### Latest entries on [my blog](https://haim.dev)
 <!-- blog starts -->
