@@ -1,4 +1,12 @@
-#!/usr/bin/env python3
+#!/usr/bin/env uv run
+# /// script
+# requires-python = ">=3.13,<3.14"
+# dependencies = [
+#   "feedparser~=6.0.12",
+#   "dateparser~=1.2.2",
+# ]
+# ///
+
 import feedparser
 import dateparser
 import pathlib
